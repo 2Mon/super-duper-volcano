@@ -56,3 +56,10 @@ I colored it orange because I may end up using nickel-plated copper for the bloc
 
   
 
+## 11/9/2025 1 PM - Cad Assembly  
+
+I added the heatsink and heatbreak to the CAD in this session. You can see the filament path here, as well as way everything goes together. I need to test if the heatsink fins are large enough, as this hotend will be dumping a ton of heat into the heatbreak and subsequently the heatsink. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb74d702e29fd73f967c5ddfc2f757eab238624a/image.png)
+  
+
