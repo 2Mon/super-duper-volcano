@@ -38,3 +38,21 @@ I designed the heatsink in this session. It was fairly simple, just a cylinder w
 ![Screenshot 2025-11-09 at 12.21.12 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--87afa4a2ed43f93d96ff4e3abf37891ac6eaae1f/Screenshot%202025-11-09%20at%2012.21.12%E2%80%AFPM.png)
   
 
+## 11/9/2025 12:43 PM - Heatblock Fixes  
+
+While doing a test fit in CAD, I realized that the wires for the supervolcano heaters won't be able to get out from the heater block and under the heatsink. I want it to be easy to use IRL, so I added some cutouts for the wires to be able to come out of. 
+
+![Screenshot 2025-11-09 at 12.36.36 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--255b1c41eed219e12b68d9f66af0d5008cf04222/Screenshot%202025-11-09%20at%2012.36.36%E2%80%AFPM.png)
+
+I also added M3 tapped holes for the three M3 PT1000 thermistors that will measure the temperature across the entire melt zone. This is important as it can vary slightly across the melt zone, so we could average it out and get a more accurate measurement. 
+
+I added the thermistors to the CAD as well.
+
+![Screenshot 2025-11-09 at 12.40.36 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--42fed42613d1938ccf13be1039f1ffdc215c9522/Screenshot%202025-11-09%20at%2012.40.36%E2%80%AFPM.png)
+
+Here's my full test fit with the block, heaters, thermistors, and the nozzle. 
+
+I colored it orange because I may end up using nickel-plated copper for the block, as it has good thermal conductivity from the copper and good hardness from the nickel plating. This is fairly common with high-quality hotends. 
+
+  
+
