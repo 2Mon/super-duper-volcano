@@ -31,3 +31,10 @@ On the other side, it has an M7 tapped hole for the heatbreak mounting, as well 
 
   
 
+## 11/9/2025 12:36 PM - Heatsink Design  
+
+I designed the heatsink in this session. It was fairly simple, just a cylinder with holes for the heatbreak, as well as mounting holes on the top and pass-through holes on the bottom to allow me to tighten the heatsink down to the block. It uses three M2 screws to clamp down on the heatbreak. It has some complex geometry inside, which allows the heatbreak to fit inside, as well as thread in and allow the filament to pass through. It has a hole in the top for the 4mm OD PTFE tube to fit in and push up against the heatbreak. The fins were made using a revolve operation of a sketch I made of each fin. 
+
+![Screenshot 2025-11-09 at 12.21.12 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--87afa4a2ed43f93d96ff4e3abf37891ac6eaae1f/Screenshot%202025-11-09%20at%2012.21.12%E2%80%AFPM.png)
+  
+
