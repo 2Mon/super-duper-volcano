@@ -56,10 +56,17 @@ I colored it orange because I may end up using nickel-plated copper for the bloc
 
   
 
-## 11/9/2025 1 PM - Cad Assembly  
+## 11/9/2025 1:33 PM - Cad Assembly  
 
 I added the heatsink and heatbreak to the CAD in this session. You can see the filament path here, as well as way everything goes together. I need to test if the heatsink fins are large enough, as this hotend will be dumping a ton of heat into the heatbreak and subsequently the heatsink. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb74d702e29fd73f967c5ddfc2f757eab238624a/image.png)
+  
+
+## 11/9/2025 1:48 PM - Made BOM  
+
+I made the BOM in this session. I used AliExpress and Trianglelabs for most of the parts, but the CNC parts will be from JLCCNC, and the heaters were from Fabreeko. The total price is around 200 dollars. 
+
+![Screenshot 2025-11-09 at 1.48.42 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d102abc451ff2edca37882cba1d9df77b50e9779/Screenshot%202025-11-09%20at%201.48.42%E2%80%AFPM.png)
   
 
