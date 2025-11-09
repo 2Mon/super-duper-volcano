@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/9/2025 - Researched Parts  
+## 11/9/2025 12:11 PM - Researched Parts  
 
 I started this project by researching parts I want to use for this hotend. 
 
@@ -17,5 +17,17 @@ I decided to take inspiration from Tricorn, but give it even more surface area b
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--7d548d22bf4f972afe64820c79e93bbf4a575345/image.png)
 
 These heaters are massive, and a single one would be overkill for most hotends, but this is not most hotends. I will be using three of these. 
+  
+
+## 11/9/2025 12:19 PM - Begun Heatblock Design  
+
+I started the design of this with the heat block. It has three 6mm holes for three supervolcano heaters, each with three m3 grubscrews to hold them in. It also has an M6 tapped hole in the center where the nozzle will go, along with a 1.8mm hole through the center where the filament will pass through and melt. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--dfc13299b48d726b7e3abd4f693bcbb16523041b/image.png)
+
+On the other side, it has an M7 tapped hole for the heatbreak mounting, as well as some m2 tapped holes for the bolts that will attach the heatsink to the heater block. Since I like triangles, there are three holes. 
+
+![Screenshot 2025-11-09 at 12.17.57 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--e2e1fa66576b2cc20f6b1504072656b2be1218df/Screenshot%202025-11-09%20at%2012.17.57%E2%80%AFPM.png)
+
   
 
