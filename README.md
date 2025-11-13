@@ -12,5 +12,5 @@ I made this because I wanted to make a new hotend for my Voron, without compromi
 | Smooth Heatbreak        | [Link](https://www.aliexpress.us/item/3256808834108668.html)                             | 1.89  | 1       | 1.89  |
 | Hardened Steel Nozzle   | [Link](https://www.aliexpress.us/item/3256807972374706.html)                             | 4.60  | 1       | 4.60  |
 | PEEK m2x20              | [Link](https://www.aliexpress.us/item/3256809026195968.html)                             | 3.22  | 1       | 3.22  |
-| CNC Parts               | N/A                                                                                      | 65.00 | 1       | 65.00 |
+| CNC Parts               | BEING SPONSORED                                                                                     |0 | 1       | 0 |
 | M3 Grub Screw           | [Link](https://www.aliexpress.us/item/2255800662710347.html)                             | 1.34  | 1       | 1.34  |
