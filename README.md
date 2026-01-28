@@ -3,6 +3,11 @@ This is my custom hotend, featuring three 110W supervolcano heaters for quick he
 
 I made this because I wanted to make a new hotend for my Voron, without compromising flow rate. This hotend has one of the largest melt zones ever made, and should be able to push at least 80mm/s^3 of ABS out of a .4mm nozzle. This will require a custom toolhead, which I will be designing later. 
 
+Its done!! Huge thanks to everyone who made this project possible, especially @tortlegod, @ruiqimao, @dr.ooof, and lastly PCBWAY, who sponsored the SLM parts for this project!!!! Video coming soon 👀
+
+<img width="489" height="663" alt="Screenshot 2026-01-27 at 7 48 35 PM" src="https://github.com/user-attachments/assets/7558ecd4-8060-4af4-b22d-b29b56cdba57" />
+
+
 <img width="264" height="616" alt="Screenshot 2025-11-09 at 1 52 34 PM" src="https://github.com/user-attachments/assets/64512658-75d7-458f-b088-8db54c777d3e" />
 
 | Product Name           | Link                                                                                     | Price | Quantity | Total |
